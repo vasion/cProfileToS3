@@ -7,6 +7,7 @@ certifi==2015.04.28
 gnureadline==6.3.3
 ipython==3.1.0
 jsonschema==2.4.0
+line-profiler==1.0
 mistune==0.5.1
 ptyprocess==0.4
 pyzmq==14.6.0
